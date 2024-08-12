@@ -1,0 +1,49 @@
+Clustering Connoisseurs: A Machine Learning Approach to Wine Classification
+Introduction
+
+This repository contains a machine learning project that aims to cluster wines based on their chemical constituents. The project uses a comprehensive dataset of 13 chemical constituents of wine, collected from a chemical analysis of wines from the same region in Italy but derived from three different cultivars.
+Dataset
+
+The dataset used in this project is the Wine Dataset for Clustering, which contains 178 samples of wine with 13 chemical constituents each. The dataset is preprocessed using techniques such as feature scaling, normalization, and handling missing values.
+Methodology
+
+The project uses the following methodology:
+
+    Exploratory Data Analysis (EDA): The dataset is analyzed using various visualizations and statistical methods to identify patterns, outliers, and correlations.
+    Data Preprocessing: The dataset is preprocessed using StandardScaler to scale the features.
+    Clustering: The dataset is clustered using K-Means clustering algorithm with the optimal number of clusters determined using the Elbow Method and Hierarchical Clustering.
+    Evaluation: The performance of the clustering model is evaluated using the Silhouette Score and visualized using a Silhouette Plot.
+    Visualization: The clusters are visualized using a 3D scatter plot and a countplot to show the distribution of the clusters.
+
+Results
+
+The project results in three clusters of wines with distinct profiles:
+
+    Cluster 1: Low Proline & low Alcohol
+    Cluster 2: Low Proline & average Alcohol
+    Cluster 3: Average Proline & high Alcohol
+
+The clusters are also visualized using a scatter plot to show the relationship between Proline and Alcohol, and a boxenplot to show the distribution of Color Intensity across the clusters.
+Requirements
+
+    Python 3.8+
+    NumPy
+    Pandas
+    Scikit-learn
+    Matplotlib
+    Seaborn
+    Plotly
+    Yellowbrick
+
+Usage
+
+    Clone the repository using git clone https://github.com/your-username/Clustering-Connoisseurs.git
+    Install the required libraries using pip install -r requirements.txt
+    Run the project using python clustering_connoisseurs.py
+
+License
+
+This project is licensed under the MIT License. See LICENSE for more information.
+Acknowledgments
+
+This project was inspired by the complex and nuanced world of wine and the need for accurate wine classification and recommendation systems.
