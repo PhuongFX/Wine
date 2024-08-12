@@ -61,6 +61,8 @@ The clusters are also visualized using a scatter plot to show the relationship b
 **Installation**
 ------------
 
+Clone the repository 📚: Clone the Clustering Connoisseurs repository using git clone https://github.com/your-username/Clustering-Connoisseurs.git.
+
 🔧 To install the required libraries, run the following command:
 ```bash
 pip install -r requirements.txt
