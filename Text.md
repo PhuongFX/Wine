@@ -104,7 +104,7 @@ python clustering_connoisseurs.py
 ---------------
 
 🙏 This project was inspired by the complex and nuanced world of wine and the need for accurate wine classification and recommendation systems.
-
+We'd like to thank the wonderful world of wine for inspiring this project! 🍷
 **Contributing**
 ------------
 
