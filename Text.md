@@ -127,3 +127,10 @@ Clustering Connoisseurs Logo
 Clustering Connoisseurs Header Image
 
 📊 Screenshot of Project Output
+
+Documentation
+
+For more detailed documentation, please see the project wiki: https://github.com/your-username/Clustering-Connoisseurs/wiki
+Wiki Pages
+
+    [Getting Started](https://github.com/your-username/
