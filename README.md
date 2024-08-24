@@ -28,3 +28,14 @@ Are you curious about the science behind wine classification? Do you want to lea
 ## `How it Works` 🫶
 
 We're using a combination of exploratory data analysis, data preprocessing, clustering, and visualization to identify patterns and relationships in the wine data. 📈 It's like being a wine detective, searching for clues to uncover the secrets of the perfect wine! 🔍
+
+
+## `Methodology` 🔍
+
+1. **Exploratory Data Analysis (EDA)**: The dataset is analyzed using various visualizations and statistical methods to identify patterns, outliers, and correlations.
+2. **Data Preprocessing**: Applying StandardScaler to the training features. Then finally shuffling dataset to increase randomness and reduce the likelihood of bias in the training process. Outliers are also been considering.
+3. **Clustering**: Using K-Means clustering algorithm with the optimal number of clusters determined using the Elbow Method and Hierarchical Clustering.
+4. **Evaluation**: Model performance is evaluated using Silhouette Score
+5. **Visualization**: 3D scatter plot and a countplot to show the distribution of the clusters.
+
+   
