@@ -56,3 +56,47 @@ Using a combination of exploratory data analysis, data preprocessing, feature sc
 
 Clusters are also visualized using a scatter plot to show the relationship between Proline and Alcohol, and a boxenplot to show the distribution of Color Intensity across the clusters.
 
+## `Methodology` 🔍
+
+> ### Requirements
+
+* Python 3.8+
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Plotly
+* Yellowbrick
+* Scipy
+  
+## `Acknowledgments` 🙏
+
+* Kaggle dataset: 💖 Indicators of Heart Disease (2022 UPDATE)
+* Scikit-learn and Xgboost libraries for model training
+* Matplotlib and Seaborn libraries for data visualization
+
+## `🙅‍♂️Disclaimer`
+
+> This project is licensed under AGPL-3.0 License and is for personal use only and should not be used for commercial purposes.
+The pre-trained model and may not always produce accurate results.
+
+
+## `Get Involved!` 😌
+This project was inspired by the complex and nuanced world of wine and the need for accurate wine classification and recommendation systems. 
+
+
+I hope you found this project informative and engaging! 😊  
+If you're interested in collaborating and contributing to the project, please let me know! I'd love to hear from you.
+* [Follow me on GitHub](https://github.com/PhuongFX)
+* [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
+
+## `Getting Started` 🚀
+
+To get started with this project, you'll need to:
+
+* Install the required libraries, including pandas, numpy, scikit-learn, Plotly, Yellowbrick, Scipy `pip install pandas numpy scikit-learn plotly yellowbrick scipy` 📦
+* Download the dataset from Kaggle 📈
+* Run the code to train and evaluate the model 🤖
+
+Enjoy working with the content! 😊
