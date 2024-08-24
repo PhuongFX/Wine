@@ -27,7 +27,7 @@ Are you curious about the science behind wine classification? Do you want to lea
 
 ## `How it Works` 🫶
 
-We're using a combination of exploratory data analysis, data preprocessing, clustering, and visualization to identify patterns and relationships in the wine data. 📈 It's like being a wine detective, searching for clues to uncover the secrets of the perfect wine! 🔍
+Using a combination of exploratory data analysis, data preprocessing, feature scaling, and K-Means clustering to clustering, and 📈visualization to identify patterns and relationships in the wine data.
 
 
 ## `Methodology` 🔍
@@ -38,4 +38,20 @@ We're using a combination of exploratory data analysis, data preprocessing, clus
 4. **Evaluation**: Model performance is evaluated using Silhouette Score
 5. **Visualization**: 3D scatter plot and a countplot to show the distribution of the clusters.
 
-   
+## `Results` 📊
+
+🎉 Resulting in three clusters of wines with distinct profiles:
+
+* Cluster 1: Low Proline & low Alcohol 🍸
+* Cluster 2: Low Proline & average Alcohol 🍹
+* Cluster 3: Average Proline & high Alcohol 🍷
+
+Clusters are also visualized using a scatter plot to show the relationship between Proline and Alcohol, and a boxenplot to show the distribution of Color Intensity across the clusters.
+
+## `Usage` 🤗
+
+📝 Here are some example use cases for this project:
+
+* Wine recommendation systems: Used to develop personalized wine recommendations based on a user's taste preferences.
+* Wine classification: Used to classify wines into different categories based on their chemical constituents.
+* Quality control: Used to identify outliers and anomalies in the wine production process.
