@@ -11,7 +11,7 @@ Are you curious about the science behind wine classification? Do you want to lea
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.2-green.svg)](https://scikit-learn.org/stable/)
 [![Pandas](https://img.shields.io/badge/pandas-1.3.5-red.svg)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-1.21.4-purple.svg)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-pink.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/seaborn-0.11.2-pink.svg)](https://seaborn.pydata.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-📊-red.svg)](https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://opensource.org/)
 
