@@ -29,6 +29,14 @@ Are you curious about the science behind wine classification? Do you want to lea
 
 Using a combination of exploratory data analysis, data preprocessing, feature scaling, and K-Means clustering to clustering, and 📈visualization to identify patterns and relationships in the wine data.
 
+## `Usage` 🤗
+
+📝 Here are some example use cases for this project:
+
+* Wine recommendation systems: Used to develop personalized wine recommendations based on a user's taste preferences.
+* Wine classification: Used to classify wines into different categories based on their chemical constituents.
+* Quality control: Used to identify outliers and anomalies in the wine production process.
+
 
 ## `Methodology` 🔍
 
@@ -48,10 +56,3 @@ Using a combination of exploratory data analysis, data preprocessing, feature sc
 
 Clusters are also visualized using a scatter plot to show the relationship between Proline and Alcohol, and a boxenplot to show the distribution of Color Intensity across the clusters.
 
-## `Usage` 🤗
-
-📝 Here are some example use cases for this project:
-
-* Wine recommendation systems: Used to develop personalized wine recommendations based on a user's taste preferences.
-* Wine classification: Used to classify wines into different categories based on their chemical constituents.
-* Quality control: Used to identify outliers and anomalies in the wine production process.
