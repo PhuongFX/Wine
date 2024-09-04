@@ -15,7 +15,7 @@ Are you curious about the science behind wine classification? Do you want to lea
 [![Yellowbrick](https://img.shields.io/badge/yellowbrick-1.3-white.svg)](https://www.scikit-yb.org/en/latest/)
 [![Scipy](https://img.shields.io/badge/scipy-1.7.3-white.svg)](https://www.scipy.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-📊-red.svg)](https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://opensource.org/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://github.com/PhuongFX/Wine)
 
 
 ## `About`
