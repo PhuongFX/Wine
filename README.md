@@ -32,7 +32,7 @@ Are you curious about the science behind wine classification? Do you want to lea
 
 ## `How it Works` 🫶
 
-Using a combination of exploratory data analysis, data preprocessing, feature scaling, and K-Means clustering to clustering, and 📈visualization to identify patterns and relationships in the wine data.
+Using a combination of exploratory data analysis, data preprocessing, feature scaling, and K-Means to clustering, and 📈visualization to identify patterns and relationships in the wine data.
 
 ## `Usage` 🤗
 
